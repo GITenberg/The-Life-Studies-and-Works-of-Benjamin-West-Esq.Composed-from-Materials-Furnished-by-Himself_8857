@@ -1,0 +1,34 @@
+_repo: The-Life-Studies-and-Works-of-Benjamin-West-Esq.Composed-from-Materials-Furnished-by-Himself_8857
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galt, John
+    aliases:
+    - Balwhidder, Micah
+    - Duffle, Thomas
+    - Prior, Samuel, Capt.
+    - Goodfellow, Robin
+    birthdate: 1779
+    deathdate: 1839
+    gutenberg_agent_id: '588'
+    url: http://www.gutenberg.org/2009/agents/588
+    wikipedia: http://en.wikipedia.org/wiki/John_Galt
+description: Pt. 1. The life and studies of Benjamin West ... prior to this arrival
+  in England -- pt. 2. The life and works of Benjamin West ... subsequent to his arrival
+  in this country.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'West, Benjamin, 1738-1820'
+- GITenberg
+title: 'The Life, Studies, and Works of Benjamin West, Esq.
+
+  Composed from Materials Furnished by Himself'
+url: http://www.gutenberg.org/ebooks/8857
