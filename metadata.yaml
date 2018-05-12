@@ -1,5 +1,8 @@
 _repo: The-Life-Studies-and-Works-of-Benjamin-West-Esq.Composed-from-Materials-Furnished-by-Himself_8857
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galt, John
@@ -16,6 +19,8 @@ creator:
 description: Pt. 1. The life and studies of Benjamin West ... prior to this arrival
   in England -- pt. 2. The life and works of Benjamin West ... subsequent to his arrival
   in this country.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8857#The-Life-Studies-and-Works-of-Benjamin-West-Esq.Composed-from-Materials-Furnished-by-Himself
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
